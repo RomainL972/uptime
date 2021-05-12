@@ -10,7 +10,7 @@ sites:
   - name: RPI Transmission
     url: https://pi.lebbadi.fr/transmission/web/
     headers:
-      - "Authorization: Basic ${BASIC_AUTH_TRANSMISSION}"
+      - "Authorization: Basic $BASIC_AUTH_TRANSMISSION"
   - name: VPS Dashboard
     url: https://vps.lebbadi.fr
   - name: VPS Questionnaire 360
