@@ -7,6 +7,10 @@ sites:
     url: https://pi.lebbadi.fr/deplacement-covid-19/
   - name: RPI Owncloud
     url: https://pi.lebbadi.fr/owncloud/
+  - name: RPI Transmission
+    url: https://pi.lebbadi.fr/transmission/web/
+    headers:
+      - "Authorization: Basic ${BASIC_AUTH_TRANSMISSION}"
   - name: VPS Dashboard
     url: https://vps.lebbadi.fr
   - name: VPS Questionnaire 360
