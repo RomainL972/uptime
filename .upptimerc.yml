@@ -17,6 +17,8 @@ sites:
     url: https://questionnaires.gemmconseil.fr
   - name: Kréyol Gym
     url: https://www.kreyolgym.fr/
+  - name: STEP
+    url: https://step.polymtl.ca/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
