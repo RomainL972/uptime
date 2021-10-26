@@ -1,7 +1,7 @@
 url: https://pi.lebbadi.fr/owncloud/
-status: up
-code: 200
-responseTime: 278
-lastUpdated: 2021-10-25T23:04:41.807Z
+status: down
+code: 599
+responseTime: 115
+lastUpdated: 2021-10-26T11:13:33.661Z
 startTime: Wed May 12 2021 19:10:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
